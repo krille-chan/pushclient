@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=hello
+Name=Pushclient
 Exec=qmlscene $@ main.qml
 Icon=push-example.png
 Terminal=false
