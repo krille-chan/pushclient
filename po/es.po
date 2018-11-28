@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the pushclient.christianpauly package.
+# advocatux <advocatux@airpost.net>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: pushclient.christianpauly\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-28 10:58+0000\n"
+"PO-Revision-Date: 2018-11-28 12:25+0100\n"
+"Last-Translator: advocatux <advocatux@airpost.net>\n"
+"Language-Team: UBports Spanish Team\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../qml/Main.qml:25 pushclient.desktop.in.h:1
+msgid "pushclient"
+msgstr "«pushclient»"
+
+#: ../qml/Main.qml:47
+msgid "Your message"
+msgstr "Su mensaje"
+
+#: ../qml/Main.qml:56
+msgid "Send push notification"
+msgstr "Enviar notificación"
+
+#: ../qml/Main.qml:109
+msgid "Copy your token to clipboard"
+msgstr "Copie su «token» al portapapeles"
+
+#: ../qml/Main.qml:127
+msgid "No token generated yet"
+msgstr "No se ha generado un «token» aún"
+
+#: ../qml/Main.qml:150
+msgid "Please log in to Ubuntu One!"
+msgstr "¡Inicie sesión en Ubuntu One!"
+
+#: ../qml/Main.qml:160
+msgid "An error has occurred!"
+msgstr "¡Ha ocurrido un error!" 
