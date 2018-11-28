@@ -1,8 +1,7 @@
 [Desktop Entry]
-Name=Pushclient
-Exec=qmlscene $@ main.qml
-Icon=push-example.png
+_Name=pushclient
+Exec=qmlscene qml/Main.qml
+Icon=assets/logo.svg
 Terminal=false
 Type=Application
 X-Ubuntu-Touch=true
-

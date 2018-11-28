@@ -1,0 +1,19 @@
+{
+    "name": "pushclient.christianpauly",
+    "description": "A simple example of push notifications on Ubuntu Touch",
+    "architecture": "@CLICK_ARCH@",
+    "title": "pushclient",
+    "hooks": {
+        "pushclient": {
+            "apparmor": "pushclient.apparmor",
+            "desktop":  "pushclient.desktop"
+        },
+        "push": {
+            "apparmor": "push-apparmor.json",
+            "push-helper": "push.json"
+        }
+    },
+    "version": "1.0",
+    "maintainer": "Christian Pauly <christian-pauly@posteo.de>",
+    "framework" : "ubuntu-sdk-16.04"
+}
